@@ -1,5 +1,5 @@
-# planets_arko
-Software Carpentry workshop
+# Software Carpentry workshop
+## 20th August 2020
 
 1. git init
 2. git add
